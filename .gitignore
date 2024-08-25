@@ -4,3 +4,4 @@ migrations
 app/config.py
 app/methods.py
 app/views-other.py
+.env
